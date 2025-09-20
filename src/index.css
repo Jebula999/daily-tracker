@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Prevent long text from spilling outside containers */
+* { min-width: 0; }
